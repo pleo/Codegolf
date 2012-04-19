@@ -1,4 +1,4 @@
 #!/bin/bash
-perl -pe 's/\s*//;s/\n//
+perl -pe 's/\s*//;s/\n//'
 
 #eof
